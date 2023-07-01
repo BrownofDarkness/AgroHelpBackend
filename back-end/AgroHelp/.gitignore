@@ -1,4 +1,4 @@
-# Created by https://www.toptal.com/developers/gitignore/api/django
+e# Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
 ### Django ###
@@ -193,6 +193,3 @@ venv
 *media*
 .idea
 .sqlite3
-.vscode
-.env
-.vscode
